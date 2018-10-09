@@ -6,7 +6,7 @@ import Recipes from "./components/Recipes";
 import './App.css';
 
 
-const API_KEY = "98ffc16f043898c38cd16fe3ca352211";
+const API_KEY = "YOUR API KEY";
 
 class App extends Component {
 
